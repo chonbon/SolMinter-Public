@@ -1,4 +1,5 @@
-# SolMinter-Public
+# ch0n-minter/SolMinter
+
 Description
 This minter was made for degens who do not want to pay for an expensive tool and want to support me! (Ch0n)
 
