@@ -3,7 +3,7 @@
 Description
 This minter was made for degens who do not want to pay for an expensive tool and want to support me! (Ch0n)
 
-While this is free to use, each succesful mint will include a transfer instruction to send 0.0025 sol to a wallet of mine (36kEKjxu3Cnq7MnA36BeNFwRvF5eEm7moGh5DMT2oTq2), this fee may be subject to change and or a Pro version may be released to eliminate this per mint fee. Also this fee is not deducted if the mint fails for whatever reason. In the dashboard there is a fee stat so you can see how much you have paid in fees.
+While this is free to use, each succesful mint will include a transfer instruction to send 0.005 sol for a mint, and 0.01 sol for a snipe to a wallet of mine (octoPbiLSMorBpTDNZLoNAbxRRdQx65CRkYpE2LF5on), this fee may be subject to change and or a Pro version may be released to eliminate this per mint fee. Also this fee is not deducted if the mint fails for whatever reason. In the dashboard there is a fee stat so you can see how much you have paid in fees.
 
 Features
 - LaunchMyNFT Mint Module (CMID Scrape, CMID State, Minting)
